@@ -1,0 +1,132 @@
+@media (max-width: 767px){ 
+    .EL{
+        padding-bottom:0
+    }
+    .EL .card-show {
+    position: relative;
+    bottom: 0;
+    box-shadow: unset;
+   
+    }
+    .EL .card-show p{
+        font-size: 10px;
+        
+    }
+    .glyphicon-chevron-right {
+       
+        position: absolute;
+        left:15px
+    }
+    .carousel-control
+
+    .partners{
+        padding-top: 0;
+    }
+    .box-input .box {
+        height: unset; 
+        width: unset;
+        box-shadow: unset; 
+    }
+    .box-input .box .btn-lg, .btn-group-lg > .btn{
+        width: 37%;
+    }
+    .box-input .box .form-control {
+        min-width: 79%;
+        padding: 12px 12px;
+    }
+    .box-input .box textarea.form-control {
+        width: 300px;
+        font-size: 16px;
+        height: 114px;
+        resize:auto;
+    }
+    .navbar.active{
+        padding-bottom: 9%;
+    }
+ }
+ @media (min-width: 768px) and (max-width: 991.98px)
+{
+    .EL{
+        padding-bottom:0
+    }
+    .EL .card-show {
+    position: relative;
+    bottom: 0;
+    box-shadow: unset;
+   
+    }
+    .EL .card-show p{
+        font-size: 10px;
+        
+    }
+    .partners{
+        padding-top: 0;
+    }
+    .box-input .box {
+        height: unset; 
+        width: unset;
+        box-shadow: unset; 
+    }
+    .box-input .box .btn-lg, .btn-group-lg > .btn{
+        width: 37%;
+    }
+    .box-input .box .form-control {
+        min-width: 79%;
+        padding: 12px 12px;
+    }
+    .box-input .box textarea.form-control {
+        width: 300px;
+        font-size: 16px;
+        height: 114px;
+        resize:auto;
+    }
+    .navbar.active{
+        padding-bottom: 9%;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+    .EL{
+        padding-bottom:0
+    }
+    .EL .card-show {
+    position: relative;
+    bottom: 0;
+    box-shadow: unset;
+   
+    }
+    .EL .card-show p{
+        font-size: 10px;
+        
+    }
+    .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next{
+        width: 50px;
+        top: 20px;
+        font-size: 18px;
+    }
+
+    .partners{
+        padding-top: 0;
+    }
+    .box-input .box {
+        height: unset; 
+        width: unset;
+        box-shadow: unset; 
+    }
+    .box-input .box .btn-lg, .btn-group-lg > .btn{
+        width: 37%;
+    }
+    .box-input .box .form-control {
+        min-width: 79%;
+        padding: 12px 12px;
+    }
+    .box-input .box textarea.form-control {
+        width: 300px;
+        font-size: 16px;
+        height: 114px;
+        resize:auto;
+    }
+    .navbar.active{
+        padding-bottom: 9%;
+    }
+} 
